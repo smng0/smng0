@@ -6,11 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on studying at university
-- 🌱 I’m currently learning GitHub
-- 👯 I’m looking to collaborate on project
-- 🤔 I’m looking for help with project
-- 💬 Ask me about anything
+- 🔭 I’m currently studying at university
 - 📫 How to reach me: email
 - 😄 Pronouns: Mr
 - ⚡ Fun fact: My favorite hobby is listening to music (pop songs and instrumental)
